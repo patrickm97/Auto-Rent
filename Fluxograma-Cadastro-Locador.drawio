@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T23:28:41.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="oJESf2EhN5Zvr-8EloOl" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T23:29:39.119Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5mq92q26ADVMcNeOkGTn" version="17.1.1" type="github">
   <diagram id="yz-zjX-ozQ3gpO2Xi7Yj" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qeK3eL-iH4auFiqdQ0pX-1" value="Locador" style="swimlane;horizontal=0;startSize=23;" vertex="1" parent="1">
-          <mxGeometry x="40" y="10" width="600" height="200" as="geometry">
+          <mxGeometry x="40" y="40" width="600" height="170" as="geometry">
             <mxRectangle x="40" y="40" width="30" height="70" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -22,7 +22,7 @@
           <mxGeometry x="450" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qeK3eL-iH4auFiqdQ0pX-6" value="Auto-Rent" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="40" y="261" width="600" height="240" as="geometry" />
+          <mxGeometry x="40" y="261" width="600" height="189" as="geometry" />
         </mxCell>
         <mxCell id="qeK3eL-iH4auFiqdQ0pX-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qeK3eL-iH4auFiqdQ0pX-6" source="qeK3eL-iH4auFiqdQ0pX-8" target="qeK3eL-iH4auFiqdQ0pX-9">
           <mxGeometry relative="1" as="geometry" />
@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="qeK3eL-iH4auFiqdQ0pX-12" value="Sucesso" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qeK3eL-iH4auFiqdQ0pX-11">
           <mxGeometry x="0.176" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="17" as="offset" />
+            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qeK3eL-iH4auFiqdQ0pX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeK3eL-iH4auFiqdQ0pX-9" target="qeK3eL-iH4auFiqdQ0pX-4">
@@ -49,7 +49,7 @@
         </mxCell>
         <mxCell id="qeK3eL-iH4auFiqdQ0pX-14" value="Dados recusados" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qeK3eL-iH4auFiqdQ0pX-13">
           <mxGeometry x="0.1074" y="-4" relative="1" as="geometry">
-            <mxPoint y="15" as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>

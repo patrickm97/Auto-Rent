@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T22:22:32.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.2" etag="uCiESwZzez5MKFL8bUaK" type="github"><diagram id="bmKgltgsZ10JqoD7OFWL">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-13T22:28:09.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="8uEmHWDLvuM2no-Gw-1o" version="17.1.2" type="github">
+  <diagram id="bmKgltgsZ10JqoD7OFWL" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Pr_dOW4al8u5oI878Pr--1" value="Locador" style="swimlane;horizontal=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="40" y="662" width="760" height="179" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--2" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="Pr_dOW4al8u5oI878Pr--1">
+          <mxGeometry x="40" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Pr_dOW4al8u5oI878Pr--1" source="Pr_dOW4al8u5oI878Pr--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--5" value="Elaboração do catalogo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pr_dOW4al8u5oI878Pr--1">
+          <mxGeometry x="130" y="75.1" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--8" value="Confirmação do aluguel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pr_dOW4al8u5oI878Pr--1">
+          <mxGeometry x="440" y="75.1" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--25" value="Adicionar mais um veículo" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Pr_dOW4al8u5oI878Pr--1" source="Pr_dOW4al8u5oI878Pr--5" target="Pr_dOW4al8u5oI878Pr--5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="139" as="sourcePoint" />
+            <mxPoint x="420" y="89" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="169" />
+              <mxPoint x="140" y="169" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--14" value="Auto-Rent" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="40" y="390" width="760" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--20" value="Validação do pedido de locação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Pr_dOW4al8u5oI878Pr--14">
+          <mxGeometry x="220" y="105" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pr_dOW4al8u5oI878Pr--21" value="Pedido validado" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Pr_dOW4al8u5oI878Pr--14">
+          <mxGeometry x="410" y="95" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

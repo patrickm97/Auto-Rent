@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T01:17:16.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="GmVEUqW_kE7gkURn_Yqi" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T01:18:26.183Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="dIv4HfhC7Q_segWsfF-q" version="18.1.1" type="github">
   <diagram id="S7J34fLPoymM6_GL6cMU" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="A-rdRI398t5r06DDgrGV-1" value="Locador/&lt;br&gt;Locatário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A-rdRI398t5r06DDgrGV-10" value="1. acessar o aplicativo" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="A-rdRI398t5r06DDgrGV-4">
+        <mxCell id="A-rdRI398t5r06DDgrGV-10" value="1. selecionar ENTRAR" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="A-rdRI398t5r06DDgrGV-4">
           <mxGeometry x="-0.0638" y="10" relative="1" as="geometry">
             <mxPoint x="450" y="160" as="targetPoint" />
             <Array as="points">
